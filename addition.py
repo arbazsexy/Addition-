@@ -1,3 +1,4 @@
 a = 10
 b = 20
-print("Addition of two numbers:",a+b)
+c = 30
+print("Addition of three numbers:",a+b+c)
